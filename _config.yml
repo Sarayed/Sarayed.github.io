@@ -154,18 +154,18 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+About_ext: "About,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+About: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
 
-# Markdown Processing
+# About Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -179,7 +179,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Certifications:
     output: true
     permalink: /:collection/:path/
   publications:

@@ -435,7 +435,7 @@
 
 ### Enhancements
 
-- Decreased spacing between Markdown footnotes
+- Decreased spacing between About footnotes
 - Removed dark background on footer
 - Removed UPPERCASE styling on post titles in the index listing
 

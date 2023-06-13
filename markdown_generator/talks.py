@@ -1,9 +1,9 @@
 
 # coding: utf-8
 
-# # Talks markdown generator for academicpages
+# # Talks About generator for academicpages
 # 
-# Takes a TSV of talks with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `talks.py`. Run either from the `markdown_generator` folder after replacing `talks.tsv` with one containing your data.
+# Takes a TSV of talks with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `talks.py`. Run either from the `About_generator` folder after replacing `talks.tsv` with one containing your data.
 # 
 # TODO: Make this work with BibTex and other databases, rather than Stuart's non-standard TSV format and citation style.
 
@@ -56,9 +56,9 @@ def html_escape(text):
         return "False"
 
 
-# ## Creating the markdown files
+# ## Creating the About files
 # 
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
+# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the About for each type. It does the YAML metadata first, then does the description for the individual page.
 
 # In[5]:
 

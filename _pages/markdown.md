@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /About/
+title: "About"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /About.html
 ---
 
 ## Locations of key files/directories
@@ -16,7 +16,7 @@ redirect_from:
   * _publications/
   * _portfolio/
   * _posts/
-  * _teaching/
+  * _Certifications/
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
@@ -24,7 +24,7 @@ redirect_from:
 
 ## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+* Name a file ".md" to have it render in About, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
@@ -34,7 +34,7 @@ redirect_from:
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
+## About guide
 
 ### Header three
 

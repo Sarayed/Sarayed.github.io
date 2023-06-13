@@ -1,9 +1,9 @@
 
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# # Publications About generator for academicpages
 # 
-# Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
+# Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `About_generator` folder after replacing `publications.tsv` with one that fits your format.
 # 
 # TODO: Make this work with BibTex and other databases of citations, rather than Stuart's non-standard TSV format and citation style.
 # 
@@ -55,9 +55,9 @@ def html_escape(text):
     return "".join(html_escape_table.get(c,c) for c in text)
 
 
-# ## Creating the markdown files
+# ## Creating the About files
 # 
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page. If you don't want something to appear (like the "Recommended citation")
+# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the About for each type. It does the YAML metadata first, then does the description for the individual page. If you don't want something to appear (like the "Recommended citation")
 
 # In[5]:
 
@@ -90,7 +90,7 @@ for row, item in publications.iterrows():
     
     md += "\n---"
     
-    ## Markdown description for individual page
+    ## About description for individual page
     
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 

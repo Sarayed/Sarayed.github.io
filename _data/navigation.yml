@@ -10,7 +10,7 @@ main:
     url: /portfolio/
 
   - title: "Certifications"
-     url: /teaching/    
+     url: /Certifications/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -19,4 +19,4 @@ main:
     url: /cv/
     
    - title: "About"
-     url: /markdown/
+     url: /About/

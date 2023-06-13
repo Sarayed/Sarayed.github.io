@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# # Publications About generator for academicpages
 # 
 # Takes a set of bibtex of publications and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
 # 
 # The core python code is also in `pubsFromBibs.py`. 
-# Run either from the `markdown_generator` folder after replacing updating the publist dictionary with:
+# Run either from the `About_generator` folder after replacing updating the publist dictionary with:
 # * bib file names
 # * specific venue keys based on your bib file preferences
 # * any specific pre-text for specific files
@@ -140,7 +140,7 @@ for pubsource in publist:
             md += "\n---"
 
             
-            ## Markdown description for individual page
+            ## About description for individual page
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
