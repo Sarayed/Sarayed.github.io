@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarra Ayed / Portfolio"
+title                    : "Sarra Ayed "
 title_separator          : "-"
 name                     : &name "Sarra Ayed"
 description              : &description "Data Science Student"
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
