@@ -13,7 +13,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-gem 'webrick'
+#gem 'webrick'
 #gem "minimal-mistakes-jekyll"
 # gem "jekyll"
 
@@ -24,5 +24,5 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  #gem 'hawkins'
 end
