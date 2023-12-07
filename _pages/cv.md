@@ -97,6 +97,7 @@ Please visit my <a href="https://Sarayed.github.io/portfolio/">Portfolio</a> for
   <li class=""><a href="#-career-objective">📌 Career Objective</a></li>
   <li class=""><a href="#-experience">💻 Experiences</a>
     <ul>
+     <li class=""><a href="">Esprit RDI</a></li>
       <li class=""><a href="">Anypli</a></li>
       
       <!-- <li class=""><a href="#business-analytics-competition--conference-2018--manhattan-college">Business Analytics Competition &amp; Conference 2018 @ Manhattan College</a></li> -->
