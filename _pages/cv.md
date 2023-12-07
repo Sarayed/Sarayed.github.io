@@ -23,7 +23,19 @@ Proficient in the realms of model development, and predictive analysis. Extensiv
 
 💻 Professional Experiences
 ---
+<h4 style="text-align:left;">Esprit RDI<span style="float:right;">
+         Ariana, Tunisia (Remote)
+    </span></h4> 
+<p style="text-align:left;"><em>Data Scienctist Intern<span style="float:right;">
+         June.2023-August.2023
+</span></em></p>
+<ul style="text-align:justify">
+  <li>Independently tested DRL, GHMM, HMM, and LSTM models for Ethereum price forecasting</li>
+  <li>Discovered DRL with the lowest Mean absolute percentage error (MAPE) of 2.82%, outperforming LSTM (5.22%) and HMM (5.43%) and even the GHMM(2.94%).</li>
+  <li>Choosing DLR enhanced our ability to forecast short-term Ethereum movements.</li>
+</ul>
 
+---
 <h4 style="text-align:left;">Anypli<span style="float:right;">
          Monastir, Tunisia
     </span></h4> 
