@@ -1,7 +1,20 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+permalink: /portfolio/
+title: "Portfolio"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as About. If you name the file .html, it will be parsed as HTML. 
+## 🤖 Computer Vision
+###### POC: Face Recognition & People Counting for Productivity Measurement
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
+
+
+
+<p>To identify key regions of productivity based on Facial Recognition, People Counting and Duration (the time spent inside the designated regions)</p>
+<!-- [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
+<p><img src="https://sulaihasubi.github.io/assets/output/enter-non-productive.gif" class="align-center"></p>
+
+<p>Dwell time for each of detected person</p>
+<p><img src="https://sulaihasubi.github.io/assets/output/a.gif" class="align-center"></p>
+
+Read full project details here:
+[Github Repository](https://github.com/sulaihasubi/Person-Detection-and-Counting){:target="_blank" rel="noopener"}
