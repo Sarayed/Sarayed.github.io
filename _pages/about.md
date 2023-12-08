@@ -1,11 +1,6 @@
 ---
-permalink: /about
-title: "about"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /about/
+title: "About"
 ---
 
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
