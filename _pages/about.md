@@ -61,6 +61,4 @@ Python, Pandas, NumPy, Matplotlib, OpenCV, Data Cleaning, Data Visualization, SQ
   <li class=""><a href="#-highlighting-my-data-science-expertise">Highlighting My Data Science Expertise</a></li>
   <li class=""><a href="#-keywords">Keywords</a></li>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/About/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
