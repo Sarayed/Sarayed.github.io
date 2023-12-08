@@ -7,7 +7,7 @@ title: "Curriculum Vitae"
 
 
 <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">February 1, 2023</time></p>
-<a href="https://Sarayed.github.io\files\SarraAyed_Resume.pdf" class="btn btn--info">Download CV</a>
+<a href="https://Sarayed.github.io\files\Resume-Sarra-Ayed.pdf" class="btn btn--info">Download CV</a>
 
 
 📧 Contact Me
