@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 ---
 
 
-<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">December 8, 2023</time></p>
+<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">May, 2024</time></p>
 <a href="https://Sarayed.github.io\files\Resume-Sarra-Ayed.pdf" class="btn btn--info">Download CV</a>
 
 
