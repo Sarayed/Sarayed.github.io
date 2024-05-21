@@ -80,7 +80,7 @@ Please visit my <a href="https://Sarayed.github.io/portfolio/">Portfolio</a> for
 🦾 Skills
 ---
 <ul style="text-align:justify">
-<li ><strong>Programming:<strong>  Python, R, SQL, Matlab, Scala, Django, Java, C, C++.</li>
+<li><strong>Programming:</strong>strong>  Python, R, SQL, Matlab, Scala, Django, Java, C, C++.</li>
 <li><strong>Libraries and Tools:</strong> NumPy, pandas, sci-kit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly, OpenCV, NLTK.</li>
 <li><strong>Data Analysis and Visualization:</strong> Tableau, Power BI, Data Visualization, VBA, Excel, Apache Airflow.</li>
 <li><strong>Big Data and Databases:</strong> MySQL, NoSQL, Oracle, Hadoop, Spark, Hive, Pig, Apache Cassandra, Elasticsearch</li>
