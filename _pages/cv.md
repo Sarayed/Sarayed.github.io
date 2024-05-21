@@ -83,10 +83,9 @@ Please visit my <a href="https://Sarayed.github.io/portfolio/">Portfolio</a> for
 <li><strong>Programming:</strong> Python, R, SQL, Matlab, Scala, Django, Java, C, C++.</li>
 <li><strong>Libraries and Tools:</strong> NumPy, pandas, sci-kit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly, OpenCV, NLTK.</li>
 <li><strong>Data Analysis and Visualization:</strong> Tableau, Power BI, Data Visualization, VBA, Excel, Apache Airflow.</li>
-<li><strong>Big Data and Databases:</strong> MySQL, NoSQL, Oracle, Hadoop, Spark, Hive, Pig, Apache Cassandra, Elasticsearch</li>
-<li><strong>Big Data Technologies:</strong> Kafka, Spark</li>
+<li><strong>Big Data and Databases:</strong> MySQL, NoSQL, Oracle, Hadoop, Spark, Hive, Pig, Kafka, Apache Cassandra, Elasticsearch</li>
 <li><strong>Cloud and DevOps Tools:</strong> Microsoft Azure (Machine Learning Studio), AWS (SageMaker), Jenkins, Docker, Git, MLOps, Grafana, Prometheus.</li>
-<li><strong>Tools:</strong> IntelliJ IDEA, Microsoft Visual Studio, Eclipse, Notepad++, CUDA, Maven, PyCharm, Jupyter Notebook, Google Colab & VS Code </li>
+<li><strong>Tools:</strong> Jupyter Notebook, Google Colab, VS Code, IntelliJ IDEA, Microsoft Visual Studio, Eclipse, Notepad++, CUDA</li>
 <li><strong>Others:</strong> Pack Office, Canva.</li>
 </ul>
 
