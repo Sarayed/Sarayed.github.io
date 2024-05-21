@@ -19,20 +19,21 @@ title: "Curriculum Vitae"
 📌 Career Objective
 ---
 <p style="text-align:justify">
-Proficient in the realms of model development, and predictive analysis. Extensive background in computer science, machine learning, and data science. Adept collaborator with strong programming skills. 🧠💡</p>
+Proficient in model development and predictive analysis with an extensive background in computer science, machine learning, and data science. Highly skilled in programming, problem-solving, and critical thinking. Excellent collaborator with strong communication and teamwork abilities. Experienced in managing projects, adapting to new challenges, and continuously learning to stay abreast of industry advancements. Adept at both independent work and contributing effectively to multidisciplinary teams. 🧠💡</p>
 
 💻 Professional Experiences
 ---
-<h4 style="text-align:left;">Esprit RDI<span style="float:right;">
+<h4 style="text-align:left;">Esprit Tech RDI<span style="float:right;">
          Ariana, Tunisia (Remote)
     </span></h4> 
 <p style="text-align:left;"><em>Data Scienctist Intern<span style="float:right;">
          June.2023-August.2023
 </span></em></p>
 <ul style="text-align:justify">
-  <li>Independently tested DRL, GHMM, HMM, and LSTM models for Ethereum price forecasting</li>
-  <li>Discovered DRL with the lowest Mean absolute percentage error (MAPE) of 2.82%, outperforming LSTM (5.22%) and HMM (5.43%) and even the GHMM(2.94%).</li>
-  <li>Choosing DLR enhanced our ability to forecast short-term Ethereum movements.</li>
+  <li>Developed a model for predicting Ethereum prices, using HMM, LSTM, and Deep Reinforcement Learning techniques.</li>
+  <li>Applied algorithms, including the Backward Forward algorithm, the Baum-Welsh algorithm, and the Viterbi algorithm, to improve prediction accuracy.</li>
+  <li>Discovered that the Deep Reinforcement Learning model had a higher Mean Absolute Percentage Error (MAPE) compared to LSTM and HMM models.</li>
+  <li>Refined the model to address these challenges, gaining valuable insights into the complexities of financial forecasting.</li>
 </ul>
 
 ---
@@ -79,13 +80,14 @@ Please visit my <a href="https://Sarayed.github.io/portfolio/">Portfolio</a> for
 🦾 Skills
 ---
 <ul style="text-align:justify">
-<li ><strong>Programming Languages:</strong>  Python, R, JSON, HTML, HTML5, CSS, PHP,  Java, C, Java Script, LateX</li>
-<li><strong>Web Development Frameworks and Libraries:</strong> Django, React, .NET, SpringBoot, Laravel, jQuery</li>
-<li><strong>Database Technologies</strong> MySQL, Oracle Database, MongoDB, NoSQL, Elasticsearch</li>
+<li ><strong>Programming:<strong>  Python, R, SQL, Matlab, Scala, Django, Java, C, C++.</li>
+<li><strong>Libraries and Tools:</strong> NumPy, pandas, sci-kit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly, OpenCV, NLTK.</li>
+<li><strong>Data Analysis and Visualization:</strong> Tableau, Power BI, Data Visualization, VBA, Excel, Apache Airflow.</li>
+<li><strong>Big Data and Databases:</strong> MySQL, NoSQL, Oracle, Hadoop, Spark, Hive, Pig, Apache Cassandra, Elasticsearch</li>
 <li><strong>Big Data Technologies:</strong> Kafka, Spark</li>
-<li><strong>NLP:</strong> Text Pre-Processing using SpaCy</li>
+<li><strong>Cloud and DevOps Tools:</strong> Microsoft Azure (Machine Learning Studio), AWS (SageMaker), Jenkins, Docker, Git, MLOps, Grafana, Prometheus.</li>
 <li><strong>Tools:</strong> IntelliJ IDEA, Microsoft Visual Studio, Eclipse, Notepad++, CUDA, Maven, PyCharm, Jupyter Notebook, Google Colab & VS Code </li>
-<li><strong>Others:</strong> Git, Postman</li>
+<li><strong>Others:</strong> Pack Office, Canva.</li>
 </ul>
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
